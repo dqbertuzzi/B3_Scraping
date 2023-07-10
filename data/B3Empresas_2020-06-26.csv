@@ -1,0 +1,522 @@
+Nome Empresa,Nome Pregao,Ticker,Setor,Subsetor,Segmento
+BCO BRASIL S.A.,BRASIL,BBAS11,Financeiro,Intermediários Financeiros,Bancos
+BCO BRASIL S.A.,BRASIL,BBAS12,Financeiro,Intermediários Financeiros,Bancos
+BCO BRASIL S.A.,BRASIL,BBAS3,Financeiro,Intermediários Financeiros,Bancos
+ALPARGATAS S.A.,ALPARGATAS,ALPA3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Calçados
+ALPARGATAS S.A.,ALPARGATAS,ALPA4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Calçados
+SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL,SARAIVA LIVR,SLED3,Consumo Cíclico,Comércio,Produtos Diversos
+SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL,SARAIVA LIVR,SLED4,Consumo Cíclico,Comércio,Produtos Diversos
+SONDOTECNICA ENGENHARIA SOLOS S.A.,SONDOTECNICA,SOND3,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+SONDOTECNICA ENGENHARIA SOLOS S.A.,SONDOTECNICA,SOND5,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+SONDOTECNICA ENGENHARIA SOLOS S.A.,SONDOTECNICA,SOND6,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+SPRINGER S.A.,SPRINGER,SPRI3,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+SPRINGER S.A.,SPRINGER,SPRI5,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+SPRINGER S.A.,SPRINGER,SPRI6,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.,WLM IND COM,WLMM3,Bens Industriais,Comércio,Material de Transporte
+WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.,WLM IND COM,WLMM4,Bens Industriais,Comércio,Material de Transporte
+BCO ESTADO DE SERGIPE S.A. - BANESE,BANESE,BGIP3,Financeiro,Intermediários Financeiros,Bancos
+BCO ESTADO DE SERGIPE S.A. - BANESE,BANESE,BGIP4,Financeiro,Intermediários Financeiros,Bancos
+TECNOSOLO ENGENHARIA S.A.,TECNOSOLO,TCNO3,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+TECNOSOLO ENGENHARIA S.A.,TECNOSOLO,TCNO4,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+TEKA-TECELAGEM KUEHNRICH S.A.,TEKA,TEKA3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+TEKA-TECELAGEM KUEHNRICH S.A.,TEKA,TEKA4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+TEKNO S.A. - INDUSTRIA E COMERCIO,TEKNO,TKNO3,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+TEKNO S.A. - INDUSTRIA E COMERCIO,TEKNO,TKNO4,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+TELEC BRASILEIRAS S.A. TELEBRAS,TELEBRAS,TELB3,Comunicações,Telecomunicações,Telecomunicações
+TELEC BRASILEIRAS S.A. TELEBRAS,TELEBRAS,TELB4,Comunicações,Telecomunicações,Telecomunicações
+OI S.A.,OI,OIBR3,Comunicações,Telecomunicações,Telecomunicações
+OI S.A.,OI,OIBR4,Comunicações,Telecomunicações,Telecomunicações
+TRONOX PIGMENTOS DO BRASIL S.A.,CRISTAL,CRPG3,Materiais Básicos,Químicos,Químicos Diversos
+TRONOX PIGMENTOS DO BRASIL S.A.,CRISTAL,CRPG5,Materiais Básicos,Químicos,Químicos Diversos
+TRONOX PIGMENTOS DO BRASIL S.A.,CRISTAL,CRPG6,Materiais Básicos,Químicos,Químicos Diversos
+BANESTES S.A. - BCO EST ESPIRITO SANTO,BANESTES,BEES3,Financeiro,Intermediários Financeiros,Bancos
+BANESTES S.A. - BCO EST ESPIRITO SANTO,BANESTES,BEES4,Financeiro,Intermediários Financeiros,Bancos
+UNIPAR CARBOCLORO S.A.,UNIPAR,UNIP3,Materiais Básicos,Químicos,Químicos Diversos
+UNIPAR CARBOCLORO S.A.,UNIPAR,UNIP5,Materiais Básicos,Químicos,Químicos Diversos
+UNIPAR CARBOCLORO S.A.,UNIPAR,UNIP6,Materiais Básicos,Químicos,Químicos Diversos
+BCO ESTADO DO PARA S.A.,BANPARA,BPAR3,Financeiro,Intermediários Financeiros,Bancos
+VULCABRAS/AZALEIA S.A.,VULCABRAS,VULC3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Calçados
+IOCHPE MAXION S.A.,IOCHP-MAXION,MYPK3,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+AZEVEDO E TRAVASSOS S.A.,AZEVEDO,AZEV3,Bens Industriais,Construção e Engenharia,Construção Pesada
+AZEVEDO E TRAVASSOS S.A.,AZEVEDO,AZEV4,Bens Industriais,Construção e Engenharia,Construção Pesada
+WETZEL S.A.,WETZEL S/A,MWET3,Bens Industriais,Material de Transporte,Material Rodoviário
+WETZEL S.A.,WETZEL S/A,MWET4,Bens Industriais,Material de Transporte,Material Rodoviário
+BCO ESTADO DO RIO GRANDE DO SUL S.A.,BANRISUL,BRSR3,Financeiro,Intermediários Financeiros,Bancos
+BCO ESTADO DO RIO GRANDE DO SUL S.A.,BANRISUL,BRSR5,Financeiro,Intermediários Financeiros,Bancos
+BCO ESTADO DO RIO GRANDE DO SUL S.A.,BANRISUL,BRSR6,Financeiro,Intermediários Financeiros,Bancos
+BOMBRIL S.A.,BOMBRIL,BOBR3,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Limpeza
+BOMBRIL S.A.,BOMBRIL,BOBR4,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Limpeza
+BCO NORDESTE DO BRASIL S.A.,NORD BRASIL,BNBR3,Financeiro,Intermediários Financeiros,Bancos
+INDUSTRIAS J B DUARTE S.A.,J B DUARTE,JBDU3,Outros,Outros,Outros
+INDUSTRIAS J B DUARTE S.A.,J B DUARTE,JBDU4,Outros,Outros,Outros
+RECRUSUL S.A.,RECRUSUL,RCSL3,Bens Industriais,Material de Transporte,Material Rodoviário
+RECRUSUL S.A.,RECRUSUL,RCSL4,Bens Industriais,Material de Transporte,Material Rodoviário
+KLABIN S.A.,KLABIN S/A,KLBN11,Materiais Básicos,Madeira e Papel,Papel e Celulose
+KLABIN S.A.,KLABIN S/A,KLBN3,Materiais Básicos,Madeira e Papel,Papel e Celulose
+KLABIN S.A.,KLABIN S/A,KLBN4,Materiais Básicos,Madeira e Papel,Papel e Celulose
+SANSUY S.A. INDUSTRIA DE PLASTICOS,SANSUY,SNSY3,Materiais Básicos,Materiais Diversos,Materiais Diversos
+SANSUY S.A. INDUSTRIA DE PLASTICOS,SANSUY,SNSY5,Materiais Básicos,Materiais Diversos,Materiais Diversos
+SANSUY S.A. INDUSTRIA DE PLASTICOS,SANSUY,SNSY6,Materiais Básicos,Materiais Diversos,Materiais Diversos
+SIDERURGICA J. L. ALIPERTI S.A.,ALIPERTI,APTI3,Consumo não Cíclico,Agropecuária,Agricultura
+SIDERURGICA J. L. ALIPERTI S.A.,ALIPERTI,APTI4,Consumo não Cíclico,Agropecuária,Agricultura
+BCO MERCANTIL DE INVESTIMENTOS S.A.,MERC INVEST,BMIN3,Financeiro,Intermediários Financeiros,Bancos
+BCO MERCANTIL DE INVESTIMENTOS S.A.,MERC INVEST,BMIN4,Financeiro,Intermediários Financeiros,Bancos
+BCO MERCANTIL DO BRASIL S.A.,MERC BRASIL,BMEB3,Financeiro,Intermediários Financeiros,Bancos
+BCO MERCANTIL DO BRASIL S.A.,MERC BRASIL,BMEB4,Financeiro,Intermediários Financeiros,Bancos
+JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP,JOSAPAR,JOPA3,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP,JOSAPAR,JOPA4,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+HAGA S.A. INDUSTRIA E COMERCIO,HAGA S/A,HAGA3,Bens Industriais,Construção e Engenharia,Produtos para Construção
+HAGA S.A. INDUSTRIA E COMERCIO,HAGA S/A,HAGA4,Bens Industriais,Construção e Engenharia,Produtos para Construção
+METALURGICA RIOSULENSE S.A.,RIOSULENSE,RSUL3,Bens Industriais,Material de Transporte,Material Rodoviário
+METALURGICA RIOSULENSE S.A.,RIOSULENSE,RSUL4,Bens Industriais,Material de Transporte,Material Rodoviário
+POLPAR S.A.,POLPAR,PPAR3,Outros,Outros,Outros
+PLASCAR PARTICIPACOES INDUSTRIAIS S.A.,PLASCAR PART,PLAS3,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+MINUPAR PARTICIPACOES S.A.,MINUPAR,MNPR3,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+PBG S/A,PORTOBELLO,PTBL3,Bens Industriais,Construção e Engenharia,Produtos para Construção
+SAO CARLOS EMPREEND E PARTICIPACOES S.A.,SAO CARLOS,SCAR3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BCO ALFA DE INVESTIMENTO S.A.,ALFA INVEST,BRIV3,Financeiro,Intermediários Financeiros,Bancos
+BCO ALFA DE INVESTIMENTO S.A.,ALFA INVEST,BRIV4,Financeiro,Intermediários Financeiros,Bancos
+CEMEPE INVESTIMENTOS S.A.,CEMEPE,MAPT3,Outros,Outros,Outros
+CEMEPE INVESTIMENTOS S.A.,CEMEPE,MAPT4,Outros,Outros,Outros
+SUZANO S.A.,SUZANO S.A.,SUZB3,Materiais Básicos,Madeira e Papel,Papel e Celulose
+RANDON S.A. IMPLEMENTOS E PARTICIPACOES,RANDON PART,RAPT3,Bens Industriais,Material de Transporte,Material Rodoviário
+RANDON S.A. IMPLEMENTOS E PARTICIPACOES,RANDON PART,RAPT4,Bens Industriais,Material de Transporte,Material Rodoviário
+BRB BCO DE BRASILIA S.A.,BRB BANCO,BSLI3,Financeiro,Intermediários Financeiros,Bancos
+BRB BCO DE BRASILIA S.A.,BRB BANCO,BSLI4,Financeiro,Intermediários Financeiros,Bancos
+CIA PARANAENSE DE ENERGIA - COPEL,COPEL,CPLE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA PARANAENSE DE ENERGIA - COPEL,COPEL,CPLE5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA PARANAENSE DE ENERGIA - COPEL,COPEL,CPLE6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+USINAS SID DE MINAS GERAIS S.A.-USIMINAS,USIMINAS,USIM3,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+USINAS SID DE MINAS GERAIS S.A.-USIMINAS,USIMINAS,USIM5,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+USINAS SID DE MINAS GERAIS S.A.-USIMINAS,USIMINAS,USIM6,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+WHIRLPOOL S.A.,WHIRLPOOL,WHRL3,Consumo Cíclico,Utilidades Domésticas,Eletrodomésticos
+WHIRLPOOL S.A.,WHIRLPOOL,WHRL4,Consumo Cíclico,Utilidades Domésticas,Eletrodomésticos
+CIA ENERGETICA DE PERNAMBUCO - CELPE,CELPE,CEPE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DE PERNAMBUCO - CELPE,CELPE,CEPE5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DE PERNAMBUCO - CELPE,CELPE,CEPE6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA SANEAMENTO BASICO EST SAO PAULO,SABESP,SBSP3,Utilidade Pública,água e Saneamento,água e Saneamento
+CIA ENERGETICA DE BRASILIA,CEB,CEBR3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DE BRASILIA,CEB,CEBR5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DE BRASILIA,CEB,CEBR6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CYRELA BRAZIL REALTY S.A.EMPREEND E PART,CYRELA REALT,CYRE3,Consumo Cíclico,Construção Civil,Incorporações
+CIA ELETRICIDADE EST. DA BAHIA - COELBA,COELBA,CEEB3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ELETRICIDADE EST. DA BAHIA - COELBA,COELBA,CEEB5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ELETRICIDADE EST. DA BAHIA - COELBA,COELBA,CEEB6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A,ENERGISA MT,ENMT3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A,ENERGISA MT,ENMT4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+SCHULZ S.A.,SCHULZ,SHUL3,Bens Industriais,Máquinas e Equipamentos,Motores . Compressores e Outros
+SCHULZ S.A.,SCHULZ,SHUL4,Bens Industriais,Máquinas e Equipamentos,Motores . Compressores e Outros
+CIA HERING,CIA HERING,HGTX3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Vestuário
+CIMS S.A.,CIMS,CMSA3,Outros,Outros,Outros
+CIMS S.A.,CIMS,CMSA4,Outros,Outros,Outros
+CIA BRASILEIRA DE DISTRIBUICAO,P.ACUCAR-CBD,PCAR3,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+CIA ENERGETICA DO CEARA - COELCE,COELCE,COCE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DO CEARA - COELCE,COELCE,COCE5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DO CEARA - COELCE,COELCE,COCE6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+LITEL PARTICIPACOES S.A.,LITEL,LTEL3B,Materiais Básicos,Mineração,Minerais Metálicos
+BARDELLA S.A. INDUSTRIAS MECANICAS,BARDELLA,BDLL3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+BARDELLA S.A. INDUSTRIAS MECANICAS,BARDELLA,BDLL4,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+ENERGISA S.A.,ENERGISA,ENGI11,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENERGISA S.A.,ENERGISA,ENGI3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENERGISA S.A.,ENERGISA,ENGI4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+RUMO MALHA NORTE S.A.,ALL NORTE,FRRN3B,Bens Industriais,Transporte,Transporte Ferroviário
+RUMO MALHA NORTE S.A.,ALL NORTE,FRRN5B,Bens Industriais,Transporte,Transporte Ferroviário
+RUMO MALHA NORTE S.A.,ALL NORTE,FRRN6B,Bens Industriais,Transporte,Transporte Ferroviário
+FERROVIA CENTRO-ATLANTICA S.A.,FER C ATLANT,VSPT3,Bens Industriais,Transporte,Transporte Ferroviário
+FERROVIA CENTRO-ATLANTICA S.A.,FER C ATLANT,VSPT4,Bens Industriais,Transporte,Transporte Ferroviário
+ATOM EMPREENDIMENTOS E PARTICIPAÇÕES S.A.,ATOMPAR,ATOM3,Outros,Outros,Outros
+BATTISTELLA ADM PARTICIPACOES S.A.,BATTISTELLA,BTTL3,Bens Industriais,Comércio,Material de Transporte
+NEOENERGIA S.A.,NEOENERGIA,NEOE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+BAUMER S.A.,BAUMER,BALM3,Saúde,Equipamentos,Equipamentos
+BAUMER S.A.,BAUMER,BALM4,Saúde,Equipamentos,Equipamentos
+CIA GAS DE SAO PAULO - COMGAS,COMGAS,CGAS3,Utilidade Pública,Gás,Gás
+CIA GAS DE SAO PAULO - COMGAS,COMGAS,CGAS5,Utilidade Pública,Gás,Gás
+EXCELSIOR ALIMENTOS S.A.,EXCELSIOR,BAUH3,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+EXCELSIOR ALIMENTOS S.A.,EXCELSIOR,BAUH4,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+ELETROBRÁS PARTICIPAÇÕES S.A. - ELETROPAR,ELETROPAR,LIPR3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+GAFISA S.A.,GAFISA,GFSA3,Consumo Cíclico,Construção Civil,Incorporações
+BRF S.A.,BRF SA,BRFS3,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+ROSSI RESIDENCIAL S.A.,ROSSI RESID,RSID3,Consumo Cíclico,Construção Civil,Incorporações
+SUL 116 PARTICIPACOES S.A.,SUL 116 PART,OPTS3B,Outros,Outros,Outros
+EMPRESA NAC COM REDITO PART S.A.ENCORPAR,ENCORPAR,ECPR3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+EMPRESA NAC COM REDITO PART S.A.ENCORPAR,ENCORPAR,ECPR4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+SUDESTE S.A.,SUDESTE S/A,OPSE3B,Outros,Outros,Outros
+EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.,EQTLMARANHAO,EQMA3B,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.,EQTLMARANHAO,EQMA5B,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.,EQTLMARANHAO,EQMA6B,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG,CEG,CEGR3,Utilidade Pública,Gás,Gás
+UPTICK PARTICIPACOES S.A.,UPTICK,UPKP3B,Utilidade Pública,Energia Elétrica,Energia Elétrica
+GPC PARTICIPACOES S.A.,GPC PART,GPCP3,Materiais Básicos,Químicos,Petroquímicos
+GPC PARTICIPACOES S.A.,GPC PART,GPCP4,Materiais Básicos,Químicos,Petroquímicos
+PORTO SEGURO S.A.,PORTO SEGURO,PSSA3,Financeiro,Previdência e Seguros,Seguradoras
+ALEF S.A.,ALEF S/A,ALEF3B,Outros,Outros,Outros
+CIA CATARINENSE DE AGUAS E SANEAM.-CASAN,CASAN,CASN3,Utilidade Pública,água e Saneamento,água e Saneamento
+CIA CATARINENSE DE AGUAS E SANEAM.-CASAN,CASAN,CASN4,Utilidade Pública,água e Saneamento,água e Saneamento
+BICICLETAS MONARK S.A.,BIC MONARK,BMKS3,Consumo Cíclico,Viagens e Lazer,Bicicletas
+OPPORTUNITY ENERGIA E PARTICIPACOES S.A.,OPPORT ENERG,OPHE3B,Outros,Outros,Outros
+EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.,EMAE,EMAE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.,EMAE,EMAE4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENGIE BRASIL ENERGIA S.A.,ENGIE BRASIL,EGIE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+RUMO S.A.,RUMO S.A.,RAIL3,Bens Industriais,Transporte,Transporte Ferroviário
+ELEKTRO REDES S.A.,ELEKTRO,EKTR3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ELEKTRO REDES S.A.,ELEKTRO,EKTR4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+INNCORP S.A.,SELECTPART,SLCT3B,Outros,Outros,Outros
+TIM PARTICIPACOES S.A.,TIM PART S/A,TIMP3,Comunicações,Telecomunicações,Telecomunicações
+TELEFÔNICA BRASIL S.A,TELEF BRASIL,VIVT3,Comunicações,Telecomunicações,Telecomunicações
+TELEFÔNICA BRASIL S.A,TELEF BRASIL,VIVT4,Comunicações,Telecomunicações,Telecomunicações
+BETAPART PARTICIPACOES S.A.,BETAPART,BETP3B,Outros,Outros,Outros
+SANTOS BRASIL PARTICIPACOES S.A.,SANTOS BRP,STBP3,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+MMX MINERACAO E METALICOS S.A.,MMX MINER,MMXM3,Materiais Básicos,Mineração,Minerais Metálicos
+MRS LOGISTICA S.A.,MRS LOGIST,MRSA3B,Bens Industriais,Transporte,Transporte Ferroviário
+MRS LOGISTICA S.A.,MRS LOGIST,MRSA5B,Bens Industriais,Transporte,Transporte Ferroviário
+MRS LOGISTICA S.A.,MRS LOGIST,MRSA6B,Bens Industriais,Transporte,Transporte Ferroviário
+GAMA PARTICIPACOES S.A.,GAMA PART,OPGM3B,Outros,Outros,Outros
+COGNA EDUCAÇÃO S.A.,COGNA ON,COGN3,Consumo Cíclico,Diversos,Serviços Educacionais
+CIA ENERGETICA DO RIO GDE NORTE - COSERN,COSERN,CSRN3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DO RIO GDE NORTE - COSERN,COSERN,CSRN5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DO RIO GDE NORTE - COSERN,COSERN,CSRN6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.,EQTL PARA,EQPA3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.,EQTL PARA,EQPA5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.,EQTL PARA,EQPA6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.,EQTL PARA,EQPA7,Utilidade Pública,Energia Elétrica,Energia Elétrica
+PROMPT PARTICIPACOES S.A.,PROMPT PART,PRPT3B,Outros,Outros,Outros
+RIO PARANAPANEMA ENERGIA S.A.,GER PARANAP,GEPA3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+RIO PARANAPANEMA ENERGIA S.A.,GER PARANAP,GEPA4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA,TRAN PAULIST,TRPL3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA,TRAN PAULIST,TRPL4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+IDEIASNET S.A.,IDEIASNET,IDNT3,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+ULTRAPAR PARTICIPACOES S.A.,ULTRAPAR,UGPA3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
+TERMINAL GARAGEM MENEZES CORTES S.A.,MENEZES CORT,MNZC3B,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+DTCOM - DIRECT TO COMPANY S.A.,DTCOM-DIRECT,DTCY3,Bens Industriais,Serviços,Serviços Diversos
+DTCOM - DIRECT TO COMPANY S.A.,DTCOM-DIRECT,DTCY4,Bens Industriais,Serviços,Serviços Diversos
+CIA SANEAMENTO DO PARANA - SANEPAR,SANEPAR,SAPR11,Utilidade Pública,água e Saneamento,água e Saneamento
+CIA SANEAMENTO DO PARANA - SANEPAR,SANEPAR,SAPR3,Utilidade Pública,água e Saneamento,água e Saneamento
+CIA SANEAMENTO DO PARANA - SANEPAR,SANEPAR,SAPR4,Utilidade Pública,água e Saneamento,água e Saneamento
+CPFL ENERGIA S.A.,CPFL ENERGIA,CPFE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA PARTICIPACOES ALIANCA DA BAHIA,PAR AL BAHIA,PEAB3,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+CIA PARTICIPACOES ALIANCA DA BAHIA,PAR AL BAHIA,PEAB4,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+BRADESPAR S.A.,BRADESPAR,BRAP3,Materiais Básicos,Mineração,Minerais Metálicos
+BRADESPAR S.A.,BRADESPAR,BRAP4,Materiais Básicos,Mineração,Minerais Metálicos
+INVESTIMENTOS E PARTICIP. EM INFRA S.A. - INVEPAR,INVEPAR,IVPR3B,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+INVESTIMENTOS E PARTICIP. EM INFRA S.A. - INVEPAR,INVEPAR,IVPR4B,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+CCR S.A.,CCR SA,CCRO3,Bens Industriais,Transporte,Exploração de Rodovias
+AES TIETE ENERGIA SA,AES TIETE E,TIET11,Utilidade Pública,Energia Elétrica,Energia Elétrica
+AES TIETE ENERGIA SA,AES TIETE E,TIET3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+AES TIETE ENERGIA SA,AES TIETE E,TIET4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CABINDA PARTICIPACOES S.A.,CABINDA PART,CABI3B,Outros,Outros,Outros
+CACONDE PARTICIPACOES S.A.,CACONDE PART,CACO3B,Outros,Outros,Outros
+CONC RIO-TERESOPOLIS S.A.,CONC RIO TER,CRTE3B,Bens Industriais,Transporte,Exploração de Rodovias
+CONC RIO-TERESOPOLIS S.A.,CONC RIO TER,CRTE5B,Bens Industriais,Transporte,Exploração de Rodovias
+PRODUTORES ENERGET.DE MANSO S.A.- PROMAN,PROMAN,PRMN3B,Utilidade Pública,Energia Elétrica,Energia Elétrica
+BIOMM S.A.,BIOMM,BIOM3,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+TPI - TRIUNFO PARTICIP. E INVEST. S.A.,TRIUNFO PART,TPIS3,Bens Industriais,Transporte,Exploração de Rodovias
+ITAU UNIBANCO HOLDING S.A.,ITAUUNIBANCO,ITUB3,Financeiro,Intermediários Financeiros,Bancos
+ITAU UNIBANCO HOLDING S.A.,ITAUUNIBANCO,ITUB4,Financeiro,Intermediários Financeiros,Bancos
+CIA SANEAMENTO DE MINAS GERAIS-COPASA MG,COPASA,CSMG3,Utilidade Pública,água e Saneamento,água e Saneamento
+ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.,ECORODOVIAS,ECOR3,Bens Industriais,Transporte,Exploração de Rodovias
+GOL LINHAS AEREAS INTELIGENTES S.A.,GOL,GOLL4,Bens Industriais,Transporte,Transporte Aéreo
+GRENDENE S.A.,GRENDENE,GRND3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Calçados
+DIAGNOSTICOS DA AMERICA S.A.,DASA,DASA3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+POMIFRUTAS S/A,POMIFRUTAS,FRTA3,Consumo não Cíclico,Agropecuária,Agricultura
+LOCALIZA RENT A CAR S.A.,LOCALIZA,RENT3,Consumo Cíclico,Diversos,Aluguel de carros
+EDP - ENERGIAS DO BRASIL S.A.,ENERGIAS BR,ENBR3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+COSAN S.A.,COSAN,CSAN3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
+LIGHT S.A.,LIGHT S/A,LIGT3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+BR MALLS PARTICIPACOES S.A.,BR MALLS PAR,BRML3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BR PROPERTIES S.A.,BR PROPERT,BRPR3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+TOTVS S.A.,TOTVS,TOTS3,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+EQUATORIAL ENERGIA S.A.,EQUATORIAL,EQTL3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+VALID SOLUÇÕES S.A.,VALID,VLID3,Bens Industriais,Serviços,Serviços Diversos
+BRASILAGRO - CIA BRAS DE PROP AGRICOLAS,BRASILAGRO,AGRO3,Consumo não Cíclico,Agropecuária,Agricultura
+CSU CARDSYSTEM S.A.,CSU CARDSYST,CARD3,Bens Industriais,Serviços,Serviços Diversos
+LUPATECH S.A.,LUPATECH,LUPA3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Equipamentos e Serviços
+EMBRAER S.A.,EMBRAER,EMBR3,Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa
+ODONTOPREV S.A.,ODONTOPREV,ODPV3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,TAESA,TAEE11,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,TAESA,TAEE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,TAESA,TAEE4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+M.DIAS BRANCO S.A. IND COM DE ALIMENTOS,M.DIASBRANCO,MDIA3,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+PROFARMA DISTRIB PROD FARMACEUTICOS S.A.,PROFARMA,PFRM3,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+TERRA SANTA AGRO S.A.,TERRA SANTA,TESA3,Consumo não Cíclico,Agropecuária,Agricultura
+POSITIVO TECNOLOGIA S.A.,POSITIVO TEC,POSI3,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.,LOPES BRASIL,LPSB3,Financeiro,Exploração de Imóveis,Intermediação Imobiliária
+TECNISA S.A.,TECNISA,TCSA3,Consumo Cíclico,Construção Civil,Incorporações
+RNI NEGÓCIOS IMOBILIÁRIOS S.A.,RNI,RDNI3,Consumo Cíclico,Construção Civil,Incorporações
+PDG REALTY S.A. EMPREEND E PARTICIPACOES,PDG REALT,PDGR3,Consumo Cíclico,Construção Civil,Incorporações
+IGUATEMI EMPRESA DE SHOPPING CENTERS S.A,IGUATEMI,IGTA3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+SAO MARTINHO S.A.,SAO MARTINHO,SMTO3,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+EVEN CONSTRUTORA E INCORPORADORA S.A.,EVEN,EVEN3,Consumo Cíclico,Construção Civil,Incorporações
+BCO SANTANDER (BRASIL) S.A.,SANTANDER BR,SANB11,Financeiro,Intermediários Financeiros,Bancos
+BCO SANTANDER (BRASIL) S.A.,SANTANDER BR,SANB3,Financeiro,Intermediários Financeiros,Bancos
+BCO SANTANDER (BRASIL) S.A.,SANTANDER BR,SANB4,Financeiro,Intermediários Financeiros,Bancos
+CPFL ENERGIAS RENOVÁVEIS S.A.,CPFL RENOVAV,CPRE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+BCO PINE S.A.,PINE,PINE3,Financeiro,Intermediários Financeiros,Bancos
+BCO PINE S.A.,PINE,PINE4,Financeiro,Intermediários Financeiros,Bancos
+JBS S.A.,JBS,JBSS3,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+JHSF PARTICIPACOES S.A.,JHSF PART,JHSF3,Consumo Cíclico,Construção Civil,Incorporações
+METALFRIO SOLUTIONS S.A.,METALFRIO,FRIO3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+FERTILIZANTES HERINGER S.A.,FER HERINGER,FHER3,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+CR2 EMPREENDIMENTOS IMOBILIARIOS S.A.,CR2,CRDE3,Consumo Cíclico,Construção Civil,Incorporações
+CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D,CEEE-D,CEED3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D,CEEE-D,CEED4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+VIVER INCORPORADORA E CONSTRUTORA S.A.,VIVER,VIVR3,Consumo Cíclico,Construção Civil,Incorporações
+LOG-IN LOGISTICA INTERMODAL S.A.,LOG-IN,LOGN3,Bens Industriais,Transporte,Transporte Hidroviário
+SLC AGRICOLA S.A.,SLC AGRICOLA,SLCE3,Consumo não Cíclico,Agropecuária,Agricultura
+EZ TEC EMPREEND. E PARTICIPACOES S.A.,EZTEC,EZTC3,Consumo Cíclico,Construção Civil,Incorporações
+MARFRIG GLOBAL FOODS S.A.,MARFRIG,MRFG3,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+TEGMA GESTAO LOGISTICA S.A.,TEGMA,TGMA3,Bens Industriais,Transporte,Transporte Rodoviário
+HELBOR EMPREENDIMENTOS S.A.,HELBOR,HBOR3,Consumo Cíclico,Construção Civil,Incorporações
+BCO INDUSVAL S.A.,INDUSVAL,IDVL3,Financeiro,Intermediários Financeiros,Bancos
+BCO INDUSVAL S.A.,INDUSVAL,IDVL4,Financeiro,Intermediários Financeiros,Bancos
+MRV ENGENHARIA E PARTICIPACOES S.A.,MRV,MRVE3,Consumo Cíclico,Construção Civil,Incorporações
+MINERVA S.A.,MINERVA,BEEF3,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+BCO ABC BRASIL S.A.,ABC BRASIL,ABCB4,Financeiro,Intermediários Financeiros,Bancos
+SPRINGS GLOBAL PARTICIPACOES S.A.,SPRINGS,SGPS3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+MULTIPLAN - EMPREEND IMOBILIARIOS S.A.,MULTIPLAN,MULT3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+B2W - COMPANHIA DIGITAL,B2W DIGITAL,BTOW3,Consumo Cíclico,Comércio,Produtos Diversos
+CAMBUCI S.A.,CAMBUCI,CAMB3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Calçados
+GENERAL SHOPPING E OUTLETS DO BRASIL S.A.,GENERALSHOPP,GSHP3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+YDUQS PARTICIPACOES S.A.,YDUQS PART,YDUQ3,Consumo Cíclico,Diversos,Serviços Educacionais
+CYRELA COMMERCIAL PROPERT S.A. EMPR PART,CYRE COM-CCP,CCPR3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+MOURA DUBEUX ENGENHARIA S/A,MOURA DUBEUX,MDNE3,Consumo Cíclico,Construção Civil,Incorporações
+DURATEX S.A.,DURATEX,DTEX3,Materiais Básicos,Madeira e Papel,Madeira
+SUL AMERICA S.A.,SUL AMERICA,SULA11,Financeiro,Previdência e Seguros,Seguradoras
+SUL AMERICA S.A.,SUL AMERICA,SULA3,Financeiro,Previdência e Seguros,Seguradoras
+SUL AMERICA S.A.,SUL AMERICA,SULA4,Financeiro,Previdência e Seguros,Seguradoras
+TRISUL S.A.,TRISUL,TRIS3,Consumo Cíclico,Construção Civil,Incorporações
+CONSTRUTORA TENDA S.A.,TENDA,TEND3,Consumo Cíclico,Construção Civil,Incorporações
+BRASIL BROKERS PARTICIPACOES S.A.,BR BROKERS,BBRK3,Financeiro,Exploração de Imóveis,Intermediação Imobiliária
+BCO PAN S.A.,BANCO PAN,BPAN4,Financeiro,Intermediários Financeiros,Bancos
+ENEVA S.A,ENEVA,ENEV3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+OSX BRASIL S.A.,OSX BRASIL,OSXB3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Equipamentos e Serviços
+DIRECIONAL ENGENHARIA S.A.,DIRECIONAL,DIRR3,Consumo Cíclico,Construção Civil,Incorporações
+CIA CELG DE PARTICIPACOES - CELGPAR,CELGPAR,GPAR3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+HYPERA S.A.,HYPERA,HYPE3,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+ALUPAR INVESTIMENTO S/A,ALUPAR,ALUP11,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ALUPAR INVESTIMENTO S/A,ALUPAR,ALUP3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ALUPAR INVESTIMENTO S/A,ALUPAR,ALUP4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+B3 S.A. - BRASIL. BOLSA. BALCÃO,B3,B3SA3,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+RENOVA ENERGIA S.A.,RENOVA,RNEW11,Utilidade Pública,Energia Elétrica,Energia Elétrica
+RENOVA ENERGIA S.A.,RENOVA,RNEW3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+RENOVA ENERGIA S.A.,RENOVA,RNEW4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A.,ADVANCED-DH,ADHM3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+CIELO S.A.,CIELO,CIEL3,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+FLEURY S.A.,FLEURY,FLRY3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+MILLS ESTRUTURAS E SERVIÇOS DE ENGENHARIA S.A.,MILLS,MILS3,Bens Industriais,Construção e Engenharia,Serviços Diversos
+JSL S.A.,JSL,JSLG3,Bens Industriais,Transporte,Transporte Rodoviário
+MARISA LOJAS S.A.,LOJAS MARISA,AMAR3,Consumo Cíclico,Comércio,Tecidos. Vestuário e Calçados
+AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S/A,AFLUENTE T,AFLT3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+PETRO RIO S.A.,PETRORIO,PRIO3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
+ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A.,ALPER S.A.,APER3,Financeiro,Previdência e Seguros,Corretoras de Seguros
+AREZZO INDÚSTRIA E COMÉRCIO S.A.,AREZZO CO,ARZZ3,Consumo Cíclico,Comércio,Tecidos. Vestuário e Calçados
+ALIANSCE SONAE SHOPPING CENTERS S.A.,ALIANSCSONAE,ALSO3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+ENAUTA PARTICIPAÇÕES S.A.,ENAUTA PART,ENAT3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
+T4F ENTRETENIMENTO S.A.,TIME FOR FUN,SHOW3,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+MAGAZINE LUIZA S.A.,MAGAZ LUIZA,MGLU3,Consumo Cíclico,Comércio,Eletrodomésticos
+QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.,QUALICORP,QUAL3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+TECHNOS S.A.,TECHNOS,TECN3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Acessórios
+STATKRAFT ENERGIAS RENOVAVEIS S.A.,STATKRAFT,STKF3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+BCO BTG PACTUAL S.A.,BTGP BANCO,BPAC11,Financeiro,Intermediários Financeiros,Bancos
+BCO BTG PACTUAL S.A.,BTGP BANCO,BPAC3,Financeiro,Intermediários Financeiros,Bancos
+BCO BTG PACTUAL S.A.,BTGP BANCO,BPAC5,Financeiro,Intermediários Financeiros,Bancos
+CIA LOCAÇÃO DAS AMÉRICAS,LOCAMERICA,LCAM3,Consumo Cíclico,Diversos,Aluguel de carros
+SINQIA S.A.,SINQIA,SQIA3,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+BIOSEV S.A.,BIOSEV,BSEV3,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+NORTEC QUÍMICA S.A.,NORTCQUIMICA,NRTQ3,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+LINX S.A.,LINX,LINX3,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+BB SEGURIDADE PARTICIPAÇÕES S.A.,BBSEGURIDADE,BBSE3,Financeiro,Previdência e Seguros,Seguradoras
+IGUA SANEAMENTO S.A.,IGUA SA,IGSN3,Utilidade Pública,água e Saneamento,água e Saneamento
+SER EDUCACIONAL S.A.,SER EDUCA,SEER3,Consumo Cíclico,Diversos,Serviços Educacionais
+ANIMA HOLDING S.A.,ANIMA,ANIM3,Consumo Cíclico,Diversos,Serviços Educacionais
+AMBEV S.A.,AMBEV S/A,ABEV3,Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes
+LOG COMMERCIAL PROPERTIES,LOG COM PROP,LOGG3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+QUALITY SOFTWARE S.A.,QUALITY SOFT,QUSW3,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.,CVC BRASIL,CVCB3,Consumo Cíclico,Viagens e Lazer,Viagens e Turismo
+OMEGA GERAÇÃO S.A.,OMEGA GER,OMGE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+COSAN LOGISTICA S.A.,COSAN LOG,RLOG3,Bens Industriais,Transporte,Transporte Ferroviário
+DOMMO ENERGIA S.A.,DOMMO,DMMO3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
+OURO FINO SAUDE ANIMAL PARTICIPACOES S.A.,OUROFINO S/A,OFSA3,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.,IMC S/A,MEAL3,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A.,WIZ S.A.,WIZS3,Financeiro,Previdência e Seguros,Corretoras de Seguros
+MAESTRO LOCADORA DE VEICULOS S.A.,MAESTROLOC,MSRO3,Consumo Cíclico,Diversos,Aluguel de carros
+BRQ SOLUCOES EM INFORMATICA S.A.,BRQ,BRQB3,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+MOVIDA PARTICIPACOES SA,MOVIDA,MOVI3,Consumo Cíclico,Diversos,Aluguel de carros
+CINESYSTEM S.A.,CINESYSTEM,CNSY3,Comunicações,Mídia,Produção e Difusão de Filmes e Programas
+CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A.,CTC S.A.,CTCA3,Consumo não Cíclico,Agropecuária,Agricultura
+CENTRO DE IMAGEM DIAGNOSTICOS S.A.,ALLIAR,AALR3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+INSTITUTO HERMES PARDINI S.A.,IHPARDINI,PARD3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+AZUL S.A.,AZUL,AZUL4,Bens Industriais,Transporte,Transporte Aéreo
+ATACADÃO S.A.,CARREFOUR BR,CRFB3,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+IRB - BRASIL RESSEGUROS S.A.,IRBBRASIL RE,IRBR3,Financeiro,Previdência e Seguros,Seguradoras
+STARA S.A. - INDÚSTRIA DE IMPLEMENTOS AGRÍCOLAS,STARA,STTR3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+CAMIL ALIMENTOS S.A.,CAMIL,CAML3,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+PRINER SERVIÇOS INDUSTRIAIS S.A.,PRINER,PRNR3,Bens Industriais,Serviços,Serviços Diversos
+SMILES FIDELIDADE S.A.,SMILES,SMLS3,Consumo Cíclico,Diversos,Programas de Fidelização
+SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.,SMART FIT,SMFT3,Consumo Cíclico,Viagens e Lazer,Atividades Esportivas
+INTER CONSTRUTORA E INCORPORADORA S.A.,INTER SA,INNT3,Consumo Cíclico,Construção Civil,Incorporações
+IRANI PAPEL E EMBALAGEM S.A.,IRANI,RANI3,Materiais Básicos,Madeira e Papel,Papel e Celulose
+IRANI PAPEL E EMBALAGEM S.A.,IRANI,RANI4,Materiais Básicos,Madeira e Papel,Papel e Celulose
+PETROBRAS DISTRIBUIDORA S/A,PETROBRAS BR,BRDT3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
+BK BRASIL OPERAÇÃO E ASSESSORIA A RESTAURANTES SA,BK BRASIL,BKBR3,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+FLEX GESTÃO DE RELACIONAMENTOS S.A.,FLEX S/A,FLEX3,Bens Industriais,Serviços,Serviços Diversos
+CENTRAIS ELET BRAS S.A. - ELETROBRAS,ELETROBRAS,ELET3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CENTRAIS ELET BRAS S.A. - ELETROBRAS,ELETROBRAS,ELET5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CENTRAIS ELET BRAS S.A. - ELETROBRAS,ELETROBRAS,ELET6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+NOTRE DAME INTERMEDICA PARTICIPACOES SA,INTERMEDICA,GNDI3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+HAPVIDA PARTICIPACOES E INVESTIMENTOS SA,HAPVIDA,HAPV3,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,Serv.Méd.Hospit..Análises e Diagnósticos
+BANCO INTER S.A.,BANCO INTER,BIDI11,Financeiro,Intermediários Financeiros,Bancos
+BANCO INTER S.A.,BANCO INTER,BIDI3,Financeiro,Intermediários Financeiros,Bancos
+BANCO INTER S.A.,BANCO INTER,BIDI4,Financeiro,Intermediários Financeiros,Bancos
+CIA ENERGETICA DE MINAS GERAIS - CEMIG,CEMIG,CMIG3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ENERGETICA DE MINAS GERAIS - CEMIG,CEMIG,CMIG4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+PRATICA KLIMAQUIP INDUSTRIA E COMERCIO SA,PRATICA,PTCA11,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+PRATICA KLIMAQUIP INDUSTRIA E COMERCIO SA,PRATICA,PTCA3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+BANCO BMG S.A.,BANCO BMG,BMGB4,Financeiro,Intermediários Financeiros,Bancos
+CENTRAIS ELET DE SANTA CATARINA S.A.,CELESC,CLSC3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CENTRAIS ELET DE SANTA CATARINA S.A.,CELESC,CLSC4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+BBM LOGISTICA S.A.,BBMLOGISTICA,BBML3,Bens Industriais,Serviços,Serviços Diversos
+GRUPO SBF SA,CENTAURO,CNTO3,Consumo Cíclico,Comércio,Produtos Diversos
+LITELA PARTICIPAÇÕES S.A.,LITELA,LTLA3B,Materiais Básicos,Mineração,Minerais Metálicos
+NATURA &CO HOLDING S.A.,GRUPO NATURA,NTCO3,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+VIVARA PARTICIPAÇOES S.A,VIVARA S.A.,VIVA3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Acessórios
+CEA MODAS S.A.,CEA MODAS,CEAB3,Consumo Cíclico,Comércio,Tecidos. Vestuário e Calçados
+LIFEMED INDUSTRIAL EQUIP. DE ART. MÉD. HOSP. S.A.,LIFEMED,LMED3,Saúde,Equipamentos,Equipamentos
+MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.,MITRE REALTY,MTRE3,Consumo Cíclico,Construção Civil,Incorporações
+LOCAWEB SERVIÇOS DE INTERNET S.A.,LOCAWEB,LWSA3,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+ALLPARK EMPREENDIMENTOS PARTICIPACOES SERVICOS S.A,ESTAPAR,ALPK3,Bens Industriais,Serviços,Serviços Diversos
+CESP - CIA ENERGETICA DE SAO PAULO,CESP,CESP3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CESP - CIA ENERGETICA DE SAO PAULO,CESP,CESP5,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CESP - CIA ENERGETICA DE SAO PAULO,CESP,CESP6,Utilidade Pública,Energia Elétrica,Energia Elétrica
+AMPLA ENERGIA E SERVICOS S.A.,AMPLA ENERG,CBEE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA FERRO LIGAS DA BAHIA - FERBASA,FERBASA,FESA3,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+CIA FERRO LIGAS DA BAHIA - FERBASA,FERBASA,FESA4,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+CIA FIACAO TECIDOS CEDRO CACHOEIRA,CEDRO,CEDO3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+CIA FIACAO TECIDOS CEDRO CACHOEIRA,CEDRO,CEDO4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+CIA SEGUROS ALIANCA DA BAHIA,SEG AL BAHIA,CSAB3,Financeiro,Previdência e Seguros,Seguradoras
+CIA SEGUROS ALIANCA DA BAHIA,SEG AL BAHIA,CSAB4,Financeiro,Previdência e Seguros,Seguradoras
+CIA TECIDOS NORTE DE MINAS COTEMINAS,COTEMINAS,CTNM3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+CIA TECIDOS NORTE DE MINAS COTEMINAS,COTEMINAS,CTNM4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+REDE ENERGIA PARTICIPAÇÕES S.A.,REDE ENERGIA,REDE3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT,CEEE-GT,EEEL3,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT,CEEE-GT,EEEL4,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CIA HABITASUL DE PARTICIPACOES,HABITASUL,HBTS3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CIA HABITASUL DE PARTICIPACOES,HABITASUL,HBTS5,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CIA HABITASUL DE PARTICIPACOES,HABITASUL,HBTS6,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CIA INDUSTRIAL CATAGUASES,IND CATAGUAS,CATA3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+CIA INDUSTRIAL CATAGUASES,IND CATAGUAS,CATA4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+CIA MELHORAMENTOS DE SAO PAULO,MELHOR SP,MSPA3,Materiais Básicos,Madeira e Papel,Papel e Celulose
+CIA MELHORAMENTOS DE SAO PAULO,MELHOR SP,MSPA4,Materiais Básicos,Madeira e Papel,Papel e Celulose
+FINANCEIRA ALFA S.A.- CRED FINANC E INVS,ALFA FINANC,CRIV3,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+FINANCEIRA ALFA S.A.- CRED FINANC E INVS,ALFA FINANC,CRIV4,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+GERDAU S.A.,GERDAU,GGBR3,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+GERDAU S.A.,GERDAU,GGBR4,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+CIA SIDERURGICA NACIONAL,SID NACIONAL,CSNA3,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+CIA TECIDOS SANTANENSE,SANTANENSE,CTSA3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+CIA TECIDOS SANTANENSE,SANTANENSE,CTSA4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+CIA TECIDOS SANTANENSE,SANTANENSE,CTSA8,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+KARSTEN S.A.,KARSTEN,CTKA4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+KARSTEN S.A.,KARSTEN,CTKA3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+VALE S.A.,VALE,VALE3,Materiais Básicos,Mineração,Minerais Metálicos
+ELEKEIROZ S.A.,ELEKEIROZ,ELEK3,Materiais Básicos,Químicos,Petroquímicos
+ELEKEIROZ S.A.,ELEKEIROZ,ELEK4,Materiais Básicos,Químicos,Petroquímicos
+GRAZZIOTIN S.A.,GRAZZIOTIN,CGRA3,Consumo Cíclico,Comércio,Tecidos. Vestuário e Calçados
+GRAZZIOTIN S.A.,GRAZZIOTIN,CGRA4,Consumo Cíclico,Comércio,Tecidos. Vestuário e Calçados
+GUARARAPES CONFECCOES S.A.,GUARARAPES,GUAR3,Consumo Cíclico,Comércio,Tecidos. Vestuário e Calçados
+CONSERVAS ODERICH S.A.,ODERICH,ODER3,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+CONSERVAS ODERICH S.A.,ODERICH,ODER4,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+CONSORCIO ALFA DE ADMINISTRACAO S.A.,ALFA CONSORC,BRGE11,Financeiro,Previdência e Seguros,Seguradoras
+CONSORCIO ALFA DE ADMINISTRACAO S.A.,ALFA CONSORC,BRGE12,Financeiro,Previdência e Seguros,Seguradoras
+CONSORCIO ALFA DE ADMINISTRACAO S.A.,ALFA CONSORC,BRGE3,Financeiro,Previdência e Seguros,Seguradoras
+CONSORCIO ALFA DE ADMINISTRACAO S.A.,ALFA CONSORC,BRGE5,Financeiro,Previdência e Seguros,Seguradoras
+CONSORCIO ALFA DE ADMINISTRACAO S.A.,ALFA CONSORC,BRGE6,Financeiro,Previdência e Seguros,Seguradoras
+CONSORCIO ALFA DE ADMINISTRACAO S.A.,ALFA CONSORC,BRGE7,Financeiro,Previdência e Seguros,Seguradoras
+CONSORCIO ALFA DE ADMINISTRACAO S.A.,ALFA CONSORC,BRGE8,Financeiro,Previdência e Seguros,Seguradoras
+CONSTRUTORA ADOLPHO LINDENBERG S.A.,CONST A LIND,CALI3,Consumo Cíclico,Construção Civil,Incorporações
+CONSTRUTORA ADOLPHO LINDENBERG S.A.,CONST A LIND,CALI4,Consumo Cíclico,Construção Civil,Incorporações
+BRASKEM S.A.,BRASKEM,BRKM3,Materiais Básicos,Químicos,Petroquímicos
+BRASKEM S.A.,BRASKEM,BRKM5,Materiais Básicos,Químicos,Petroquímicos
+BRASKEM S.A.,BRASKEM,BRKM6,Materiais Básicos,Químicos,Petroquímicos
+CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA,COR RIBEIRO,CORR3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA,COR RIBEIRO,CORR4,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+DOHLER S.A.,DOHLER,DOHL3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+DOHLER S.A.,DOHLER,DOHL4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+RAIA DROGASIL S.A.,RAIADROGASIL,RADL3,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+MUNDIAL S.A. - PRODUTOS DE CONSUMO,MUNDIAL,MNDL3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Acessórios
+ELECTRO ACO ALTONA S.A.,ACO ALTONA,EALT3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+ELECTRO ACO ALTONA S.A.,ACO ALTONA,EALT4,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+WEG S.A.,WEG,WEGE3,Bens Industriais,Máquinas e Equipamentos,Motores . Compressores e Outros
+ETERNIT S.A.,ETERNIT,ETER3,Bens Industriais,Construção e Engenharia,Produtos para Construção
+EUCATEX S.A. INDUSTRIA E COMERCIO,EUCATEX,EUCA3,Materiais Básicos,Madeira e Papel,Madeira
+EUCATEX S.A. INDUSTRIA E COMERCIO,EUCATEX,EUCA4,Materiais Básicos,Madeira e Papel,Madeira
+INVESTIMENTOS BEMGE S.A.,INVEST BEMGE,FIGE3,Outros,Outros,Outros
+INVESTIMENTOS BEMGE S.A.,INVEST BEMGE,FIGE4,Outros,Outros,Outros
+FINANSINOS S.A.- CREDITO FINANC E INVEST,FINANSINOS,FNCN3,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+TAURUS ARMAS S.A.,TAURUS ARMAS,TASA3,Bens Industriais,Máquinas e Equipamentos,Armas e Munições
+TAURUS ARMAS S.A.,TAURUS ARMAS,TASA4,Bens Industriais,Máquinas e Equipamentos,Armas e Munições
+FRAS-LE S.A.,FRAS-LE,FRAS3,Bens Industriais,Material de Transporte,Material Rodoviário
+TUPY S.A.,TUPY,TUPY3,Bens Industriais,Material de Transporte,Material Rodoviário
+VIA VAREJO S.A.,VIAVAREJO,VVAR3,Consumo Cíclico,Comércio,Eletrodomésticos
+HERCULES S.A. FABRICA DE TALHERES,HERCULES,HETA3,Consumo Cíclico,Utilidades Domésticas,Utensílios Domésticos
+HERCULES S.A. FABRICA DE TALHERES,HERCULES,HETA4,Consumo Cíclico,Utilidades Domésticas,Utensílios Domésticos
+HOTEIS OTHON S.A.,HOTEIS OTHON,HOOT3,Consumo Cíclico,Hoteis e Restaurantes,Hotelaria
+HOTEIS OTHON S.A.,HOTEIS OTHON,HOOT4,Consumo Cíclico,Hoteis e Restaurantes,Hotelaria
+IGB ELETRÔNICA S/A,IGB S/A,IGBR3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BAHEMA EDUCAÇÃO S.A.,BAHEMA,BAHI3,Consumo Cíclico,Diversos,Serviços Educacionais
+INDUSTRIAS ROMI S.A.,INDS ROMI,ROMI3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+INEPAR S.A. INDUSTRIA E CONSTRUCOES,INEPAR,INEP3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+INEPAR S.A. INDUSTRIA E CONSTRUCOES,INEPAR,INEP4,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+ITAUSA S.A.,ITAUSA,ITSA3,Financeiro,Intermediários Financeiros,Bancos
+ITAUSA S.A.,ITAUSA,ITSA4,Financeiro,Intermediários Financeiros,Bancos
+JOAO FORTES ENGENHARIA S.A.,JOAO FORTES,JFEN3,Consumo Cíclico,Construção Civil,Incorporações
+KEPLER WEBER S.A.,KEPLER WEBER,KEPL3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+GP INVESTMENTS. LTD.,GP INVEST,GPIV33,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+WILSON SONS LTD.,WILSON SONS,WSON33,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+PPLA PARTICIPATIONS LTD.,PPLA,PPLA11,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+BIOTOSCANA INVESTMENTS S.A.,BIOTOSCANA,GBIO33,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+LOJAS AMERICANAS S.A.,LOJAS AMERIC,LAME3,Consumo Cíclico,Comércio,Produtos Diversos
+LOJAS AMERICANAS S.A.,LOJAS AMERIC,LAME4,Consumo Cíclico,Comércio,Produtos Diversos
+LOJAS RENNER S.A.,LOJAS RENNER,LREN3,Consumo Cíclico,Comércio,Tecidos. Vestuário e Calçados
+TREVISA INVESTIMENTOS S.A.,TREVISA,LUXM3,Bens Industriais,Transporte,Transporte Hidroviário
+TREVISA INVESTIMENTOS S.A.,TREVISA,LUXM4,Bens Industriais,Transporte,Transporte Hidroviário
+MANGELS INDUSTRIAL S.A.,MANGELS INDL,MGEL3,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+MANGELS INDUSTRIAL S.A.,MANGELS INDL,MGEL4,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+MANUFATURA DE BRINQUEDOS ESTRELA S.A.,ESTRELA,ESTR3,Consumo Cíclico,Viagens e Lazer,Brinquedos e Jogos
+MANUFATURA DE BRINQUEDOS ESTRELA S.A.,ESTRELA,ESTR4,Consumo Cíclico,Viagens e Lazer,Brinquedos e Jogos
+MARCOPOLO S.A.,MARCOPOLO,POMO3,Bens Industriais,Material de Transporte,Material Rodoviário
+MARCOPOLO S.A.,MARCOPOLO,POMO4,Bens Industriais,Material de Transporte,Material Rodoviário
+MERCANTIL BRASIL FINANC S.A. C.F.I.,MERC FINANC,MERC3,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+MERCANTIL BRASIL FINANC S.A. C.F.I.,MERC FINANC,MERC4,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+MAHLE-METAL LEVE S.A.,METAL LEVE,LEVE3,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+METALGRAFICA IGUACU S.A.,METAL IGUACU,MTIG3,Materiais Básicos,Embalagens,Embalagens
+METALGRAFICA IGUACU S.A.,METAL IGUACU,MTIG4,Materiais Básicos,Embalagens,Embalagens
+METALURGICA GERDAU S.A.,GERDAU MET,GOAU3,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+METALURGICA GERDAU S.A.,GERDAU MET,GOAU4,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+JEREISSATI PARTICIPACOES S.A.,JEREISSATI,JPSA3,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+METISA METALURGICA TIMBOENSE S.A.,METISA,MTSA3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+METISA METALURGICA TIMBOENSE S.A.,METISA,MTSA4,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+MINASMAQUINAS S.A.,MINASMAQUINA,MMAQ3,Bens Industriais,Comércio,Material de Transporte
+MINASMAQUINAS S.A.,MINASMAQUINA,MMAQ4,Bens Industriais,Comércio,Material de Transporte
+MONTEIRO ARANHA S.A.,MONT ARANHA,MOAR3,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+BCO BRADESCO S.A.,BRADESCO,BBDC3,Financeiro,Intermediários Financeiros,Bancos
+BCO BRADESCO S.A.,BRADESCO,BBDC4,Financeiro,Intermediários Financeiros,Bancos
+SUZANO HOLDING S.A.,SUZANO HOLD,NEMO3,Materiais Básicos,Madeira e Papel,Papel e Celulose
+SUZANO HOLDING S.A.,SUZANO HOLD,NEMO5,Materiais Básicos,Madeira e Papel,Papel e Celulose
+SUZANO HOLDING S.A.,SUZANO HOLD,NEMO6,Materiais Básicos,Madeira e Papel,Papel e Celulose
+NORDON INDUSTRIAS METALURGICAS S.A.,NORDON MET,NORD3,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+BCO AMAZONIA S.A.,AMAZONIA,BAZA3,Financeiro,Intermediários Financeiros,Bancos
+DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS,DIMED,PNVL3,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS,DIMED,PNVL4,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+PARANAPANEMA S.A.,PARANAPANEMA,PMAM3,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Cobre
+PANATLANTICA S.A.,PANATLANTICA,PATI3,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+PANATLANTICA S.A.,PANATLANTICA,PATI4,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+SAO PAULO TURISMO S.A.,SPTURIS,AHEB3,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+SAO PAULO TURISMO S.A.,SPTURIS,AHEB5,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+SAO PAULO TURISMO S.A.,SPTURIS,AHEB6,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+PETROLEO BRASILEIRO S.A. PETROBRAS,PETROBRAS,PETR3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
+PETROLEO BRASILEIRO S.A. PETROBRAS,PETROBRAS,PETR4,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
+PETTENATI S.A. INDUSTRIA TEXTIL,PETTENATI,PTNT3,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+PETTENATI S.A. INDUSTRIA TEXTIL,PETTENATI,PTNT4,Consumo Cíclico,Tecidos. Vestuário e Calçados,Fios e Tecidos
+ALFA HOLDINGS S.A.,ALFA HOLDING,RPAD3,Financeiro,Intermediários Financeiros,Bancos
+ALFA HOLDINGS S.A.,ALFA HOLDING,RPAD5,Financeiro,Intermediários Financeiros,Bancos
+ALFA HOLDINGS S.A.,ALFA HOLDING,RPAD6,Financeiro,Intermediários Financeiros,Bancos
+REFINARIA DE PETROLEOS MANGUINHOS S.A.,PET MANGUINH,RPMG3,Petróleo. Gás e Biocombustíveis,Petróleo. Gás e Biocombustíveis,Exploração. Refino e Distribuição
